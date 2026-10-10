@@ -409,6 +409,7 @@
       text-decoration: underline;
       word-break: break-all;
     }
+    .dish-card { border-left: 6px solid var(--accent); }
   </style>
 </head>
 <body>
@@ -468,6 +469,9 @@
   </div>
 
   <script>
+    // generar.py sustituye esta línea por el nombre y los platos de cada cliente.
+    const TIENDA = null;
+
     const PHRASES = [
       { ja: "豚肉は使っていません", ar: "لا يحتوي على لحم خنزير", en: "No pork", id: "Tidak mengandung babi" },
       { ja: "アルコール（みりん・酒）は使っていません", ar: "لا يحتوي على كحول (ولا ميرين ولا ساكي)", en: "No alcohol (no mirin, no sake)", id: "Tidak mengandung alkohol (tanpa mirin dan sake)" },
@@ -486,6 +490,13 @@
       { ja: "持ち帰りできます", ar: "يمكن أخذ الطعام معك", en: "Takeaway available", id: "Bisa dibawa pulang" },
       { ja: "ありがとうございました", ar: "شكرًا لزيارتكم", en: "Thank you for coming", id: "Terima kasih atas kunjungan Anda" }
     ];
+
+    // Versión de cliente: sus platos van primero y el título lleva su nombre.
+    if (TIENDA) {
+      PHRASES.unshift(...TIENDA.platos.map((p) => ({ ...p, plato: true })));
+      document.title = TIENDA.nombre + " — 指さし会話";
+      document.querySelector(".title-wrap h1").textContent = TIENDA.nombre;
+    }
 
     const STORAGE_KEY = "yubisashi_guest_lang";
     let currentLang = "ar";
@@ -538,7 +549,7 @@
       PHRASES.forEach((phrase, index) => {
         const btn = document.createElement("button");
         btn.type = "button";
-        btn.className = "phrase-card" + (isReverseMode ? " reverse-mode" : "");
+        btn.className = "phrase-card" + (isReverseMode ? " reverse-mode" : "") + (phrase.plato ? " dish-card" : "");
         
         const primaryText = isReverseMode ? phrase[currentLang] : phrase.ja;
         const secondaryText = isReverseMode ? phrase.ja : phrase[currentLang];
@@ -639,6 +650,8 @@
       }
 
       hero.textContent = heroText;
+      // Los platos con etiquetas son frases largas: a tamaño completo no caben.
+      hero.style.fontSize = heroText.length > 28 ? "clamp(1.6rem, 4.5vw, 2.8rem)" : "";
       sub.textContent = subText;
 
       // Check voice capability
