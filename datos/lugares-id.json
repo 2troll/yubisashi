@@ -1,0 +1,342 @@
+{
+ "osaka-ibaraki-mosque": {
+  "name_id": "Masjid Osaka Ibaraki",
+  "notes_id": "7 menit jalan kaki dari stasiun monorel Toyokawa. Tempat parkir terbatas",
+  "jumuah_id": ""
+ },
+ "hyogo-masjid-jan-academy": {
+  "name_id": "Masjid Hyogo (Jan Academy)",
+  "notes_id": "Buka 24 jam menurut VISIT KOBE. ~15 menit jalan kaki dari Sannomiya",
+  "jumuah_id": ""
+ },
+ "kobe-muslim-mosque": {
+  "name_id": "Masjid Muslim Kobe",
+  "notes_id": "Masjid pertama di Jepang (1935). ~10 menit jalan kaki dari Motomachi/Sannomiya. Salat Jumat disiarkan langsung",
+  "jumuah_id": ""
+ },
+ "shiga-masjid": {
+  "name_id": "Masjid Shiga",
+  "notes_id": "Didirikan tahun 2018",
+  "jumuah_id": ""
+ },
+ "kyoto-central-masjid": {
+  "name_id": "Masjid Pusat Kyoto",
+  "notes_id": "Dikelola oleh Kyoto Muslim Community. Lantai terpisah untuk wanita; toko bahan makanan halal. Tidak ada tempat parkir sepeda",
+  "jumuah_id": "Dua sesi: khotbah 12:15 dan 12:55"
+ },
+ "kyoto-masjid-kyoto-muslim-association": {
+  "name_id": "Masjid Kyoto (Kyoto Muslim Association)",
+  "notes_id": "Sel-Sab 12:00-18:00, tutup Minggu. Tempat wudu sangat terbatas; sumber berbeda menyebutkan lantai (1F/B1)",
+  "jumuah_id": "12:30, 13:00, 13:30 (khusus pria)"
+ },
+ "masjid-al-huda": {
+  "name_id": "Masjid Al-Huda",
+  "notes_id": "Dikelola oleh Al-Huda Muslim Association. ~5 menit jalan kaki dari Stasiun Rokujizo",
+  "jumuah_id": ""
+ },
+ "miki-masjid": {
+  "name_id": "Masjid Miki",
+  "notes_id": "Pedesaan, hanya dapat dijangkau dengan mobil. Beberapa sumber menyebutkan 134-1 Iwamiya",
+  "jumuah_id": ""
+ },
+ "nara-masjid-iqra-academy": {
+  "name_id": "Masjid Nara & Iqra Academy",
+  "notes_id": "Ruang wanita, wudu, tempat parkir. 9 menit jalan kaki dari JR Kyobate",
+  "jumuah_id": "12:00-13:00 (menurut Halal Navi, 2026)"
+ },
+ "japan-da-wah-centre-masjid-al-da-wah": {
+  "name_id": "Japan Da'wah Centre & Masjid Al Da'wah",
+  "notes_id": "~1 menit jalan kaki dari Stasiun JR Sugimotocho. Koordinat belum diverifikasi",
+  "jumuah_id": ""
+ },
+ "masjid-istiqlal-osaka": {
+  "name_id": "Masjid Istiqlal Osaka",
+  "notes_id": "Masjid komunitas Indonesia; area wanita; ~6 menit jalan kaki dari JR Imamiya",
+  "jumuah_id": ""
+ },
+ "osaka-grand-masjid-osaka-islamic-center": {
+  "name_id": "Masjid Raya Osaka (Osaka Islamic Center)",
+  "notes_id": "Tel 06-6477-9862. Koordinat belum diverifikasi",
+  "jumuah_id": ""
+ },
+ "osaka-masjid": {
+  "name_id": "Masjid Osaka",
+  "notes_id": "~6 menit jalan kaki dari Stasiun Chibune. Restoran halal di dekatnya di Owada",
+  "jumuah_id": "13:30 (menurut situs resmi)"
+ },
+ "islamic-research-center-japan": {
+  "name_id": "Islamic Research Center Japan",
+  "notes_id": "Lantai 4 sebuah gedung",
+  "jumuah_id": ""
+ },
+ "kansai-international-airport-t1-prayer-room-3f": {
+  "name_id": "Ruang Salat Bandara Internasional Kansai T1 (3F)",
+  "notes_id": "Dekat lounge Korean Air. Ruang pria/wanita dan tempat wudu terpisah. Tidak ada di Terminal 2",
+  "jumuah_id": ""
+ },
+ "kansai-international-airport-t1-prayer-room-gate-area-main-s": {
+  "name_id": "Ruang Salat Bandara Internasional Kansai T1 (Area Gate, Utama/Selatan)",
+  "notes_id": "Airside, setelah pemeriksaan keamanan. Pria/wanita terpisah dengan tempat wudu",
+  "jumuah_id": ""
+ },
+ "kansai-international-airport-t1-prayer-room-gate-area-north-": {
+  "name_id": "Ruang Salat Bandara Internasional Kansai T1 (Area Gate, North Wing)",
+  "notes_id": "Airside, setelah pemeriksaan keamanan. Pria/wanita terpisah dengan tempat wudu",
+  "jumuah_id": ""
+ },
+ "rinku-premium-outlets-prayer-room": {
+  "name_id": "Ruang Salat Rinku Premium Outlets",
+  "notes_id": "Satu stasiun dari Bandara Kansai",
+  "jumuah_id": ""
+ },
+ "kicc-kobe-international-community-center-prayer-space": {
+  "name_id": "Ruang Salat KICC Kobe International Community Center",
+  "notes_id": "Hari kerja 10-20, akhir pekan 10-18, tutup hari libur. Bak cuci kaki",
+  "jumuah_id": ""
+ },
+ "kamomeria-naka-pier-central-terminal-prayer-space": {
+  "name_id": "Ruang Salat Kamomeria (Naka Pier Central Terminal)",
+  "notes_id": "Hari kerja 8:30-20:30, akhir pekan 8:15-21:00. Wastafel untuk wudu",
+  "jumuah_id": ""
+ },
+ "kobe-airport-prayer-room": {
+  "name_id": "Ruang Salat Bandara Kobe",
+  "notes_id": "Terbuka untuk semua pengunjung",
+  "jumuah_id": ""
+ },
+ "rokko-snow-park-prayer-room": {
+  "name_id": "Ruang Salat Rokko Snow Park",
+  "notes_id": "Hanya musim dingin; di musim panas (GREENIA) berdasarkan permintaan. Ruang pria/wanita",
+  "jumuah_id": ""
+ },
+ "kyoto-international-community-house-kokoka-prayer-room": {
+  "name_id": "Ruang Salat Kyoto International Community House (kokoka)",
+  "notes_id": "9:00-21:00, tutup Senin. Ruang kecil (maks 5 orang), tanpa reservasi",
+  "jumuah_id": ""
+ },
+ "kyoto-museum-of-traditional-crafts-prayer-room": {
+  "name_id": "Ruang Salat Kyoto Museum of Traditional Crafts",
+  "notes_id": "",
+  "jumuah_id": ""
+ },
+ "m-s-kyoto-information-center-prayer-room": {
+  "name_id": "Ruang Salat M's Kyoto Information Center",
+  "notes_id": "Dekat Stasiun Kyoto",
+  "jumuah_id": ""
+ },
+ "nijo-castle-prayer-space": {
+  "name_id": "Ruang Salat Kastel Nijo",
+  "notes_id": "8:45-17:00. Tanyakan di kantor Castle Estate; tiket masuk diperlukan",
+  "jumuah_id": ""
+ },
+ "toei-kyoto-studio-park-uzumasa-eigamura-prayer-space": {
+  "name_id": "Ruang Salat Toei Kyoto Studio Park (Uzumasa Eigamura)",
+  "notes_id": "Taman hiburan; tidak perlu reservasi",
+  "jumuah_id": ""
+ },
+ "kai-nara-prayer-space": {
+  "name_id": "Ruang Salat KAI (Nara)",
+  "notes_id": "",
+  "jumuah_id": ""
+ },
+ "nara-city-tourist-information-center-prayer-room-jr-nara-sta": {
+  "name_id": "Ruang Salat Nara City Tourist Information Center (Stasiun JR Nara)",
+  "notes_id": "Di Stasiun JR Nara. Pusat informasi buka 9:00-21:00",
+  "jumuah_id": ""
+ },
+ "namba-city-prayer-room": {
+  "name_id": "Ruang Salat Namba CITY",
+  "notes_id": "Dapatkan kode di meja informasi B2. Sekitar 11:30-20:30; pria/wanita, wudu",
+  "jumuah_id": ""
+ },
+ "osaka-international-convention-center-prayer-room": {
+  "name_id": "Ruang Salat Osaka International Convention Center",
+  "notes_id": "Wudu dan kiblat",
+  "jumuah_id": ""
+ },
+ "osaka-station-city-prayer-room": {
+  "name_id": "Ruang Salat Osaka Station City",
+  "notes_id": "Daftar terlebih dahulu di OSC Information, North Gate Bldg 3F. Jam operasional 10-18 (beberapa sumber 11-19)",
+  "jumuah_id": ""
+ },
+ "tempozan-marketplace-prayer-room": {
+  "name_id": "Ruang Salat Tempozan Marketplace",
+  "notes_id": "Dekat akuarium Kaiyukan. Kode akses dari pusat informasi Kaiyukan; pria/wanita, wudu",
+  "jumuah_id": ""
+ },
+ "lalaport-expocity-prayer-room": {
+  "name_id": "Ruang Salat LaLaport EXPOCITY",
+  "notes_id": "Tanyakan di bagian informasi Hikari no Hiroba 1F. Ruang pria/wanita dengan tempat wudu",
+  "jumuah_id": ""
+ },
+ "ali-s-halal-kitchen-kobe": {
+  "name_id": "Ali's Halal Kitchen (Kobe)",
+  "notes_id": "Pakistan/India, pemilik Muslim, tanpa alkohol",
+  "jumuah_id": ""
+ },
+ "hyogo-shawarma-bakery": {
+  "name_id": "Hyogo Shawarma & Bakery",
+  "notes_id": "Tercantum sebagai makanan halal oleh VISIT KOBE; dekat Kasuganomichi. Koordinat belum diverifikasi",
+  "jumuah_id": ""
+ },
+ "kobe-shawarma": {
+  "name_id": "Kobe Shawarma",
+  "notes_id": "Tercantum sebagai makanan halal oleh VISIT KOBE; di sebelah Masjid Kobe. Koordinat belum diverifikasi",
+  "jumuah_id": ""
+ },
+ "mezban-mosaic-harborland": {
+  "name_id": "Mezban (Mosaic Harborland)",
+  "notes_id": "India; tersertifikasi oleh Osaka Halal Association. Koordinat belum diverifikasi",
+  "jumuah_id": ""
+ },
+ "naan-inn": {
+  "name_id": "Naan Inn",
+  "notes_id": "Pakistan/India, semua halal, 1 menit dari Masjid Kobe. Tutup Senin",
+  "jumuah_id": ""
+ },
+ "tsuki-usagi": {
+  "name_id": "Tsuki Usagi",
+  "notes_id": "Paket hidangan daging sapi Kobe bersertifikat halal; pesan 2+ hari sebelumnya",
+  "jumuah_id": ""
+ },
+ "gyumon-kyoto-station-halal-wagyu-ramen-gyukatsu": {
+  "name_id": "GYUMON Kyoto Station (Halal Wagyu Ramen & Gyukatsu)",
+  "notes_id": "Tersertifikasi oleh Malaysia Halal Corporation, tanpa alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "gyumon-volcano-kyoto-kawaramachi": {
+  "name_id": "GYUMON Volcano Kyoto Kawaramachi",
+  "notes_id": "Ramen wagyu pedas halal; tanpa alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "halal-ramen-japan-kyoto": {
+  "name_id": "HALAL RAMEN JAPAN Kyoto",
+  "notes_id": "Bersertifikat halal, tanpa alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "halal-ramen-ayam-ya-karasuma-kyoto": {
+  "name_id": "Halal Ramen Ayam-Ya Karasuma Kyoto",
+  "notes_id": "Tersertifikasi Japan Halal Foundation (FPS-108), tanpa alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "halal-wagyu-ramen-shinjuku-tei-gion-kyoto": {
+  "name_id": "Halal Wagyu Ramen Shinjuku-tei Gion Kyoto",
+  "notes_id": "Bersertifikat halal, tanpa babi/alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "halal-wagyu-ramen-shinjuku-tei-kiyomizu-kyoto": {
+  "name_id": "Halal Wagyu Ramen Shinjuku-tei Kiyomizu Kyoto",
+  "notes_id": "Bersertifikat halal, tanpa babi/alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "istanbul-saray": {
+  "name_id": "Istanbul Saray",
+  "notes_id": "Turki. Bersertifikat halal, pemilik Muslim. Dekat Kawaramachi Sanjo",
+  "jumuah_id": ""
+ },
+ "raju-tanbaguchi": {
+  "name_id": "RAJU Tanbaguchi",
+  "notes_id": "India/Nepal. Tercantum bersertifikat halal & pemilik Muslim; tidak terdaftar di daftar publik dewan Kyoto",
+  "jumuah_id": ""
+ },
+ "wagyu-sukiyaki-halra-kyoto": {
+  "name_id": "Wagyu Sukiyaki HALRA Kyoto",
+  "notes_id": "Bersertifikat halal menurut Halal Gourmet; tanpa alkohol",
+  "jumuah_id": ""
+ },
+ "yoshiya-arashiyama": {
+  "name_id": "Yoshiya Arashiyama",
+  "notes_id": "Tersertifikasi Kyoto Halal Council, tanpa alkohol. Ruang salat dengan wudu (untuk pelanggan)",
+  "jumuah_id": ""
+ },
+ "gyumon-nara-halal-wagyu-ramen-gyukatsu": {
+  "name_id": "GYUMON Nara (Halal Wagyu Ramen & Gyukatsu)",
+  "notes_id": "Tersertifikasi oleh Malaysia Halal Corporation, tanpa alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "halal-turkish-kebab-and-ice-cream-nara": {
+  "name_id": "Halal Turkish Kebab and Ice Cream (Nara)",
+  "notes_id": "Pemilik Muslim, tanpa alkohol. Di Sanjo-dori",
+  "jumuah_id": ""
+ },
+ "japanese-restaurant-yoshino-wadokoro-yoshino": {
+  "name_id": "Restoran Jepang Yoshino (Wadokoro Yoshino)",
+  "notes_id": "Bersertifikat halal menurut Halal Gourmet. Dekat Stasiun JR Nara",
+  "jumuah_id": ""
+ },
+ "ponte-rosso-halal-veg": {
+  "name_id": "Ponte Rosso Halal & Veg",
+  "notes_id": "Italia; daging halal, dapur halal; ruang salat. Disarankan melakukan reservasi",
+  "jumuah_id": ""
+ },
+ "umemori-sushi-school-main-store": {
+  "name_id": "Umemori Sushi School (Toko Utama)",
+  "notes_id": "Kelas praktik membuat sushi; bersertifikat halal; ruang salat. Wajib reservasi",
+  "jumuah_id": ""
+ },
+ "ali-s-kitchen-shinsaibashi": {
+  "name_id": "Ali's Kitchen (Shinsaibashi)",
+  "notes_id": "Bersertifikat halal, pemilik Muslim, tanpa alkohol/babi; ruang salat",
+  "jumuah_id": ""
+ },
+ "bagus-indonesian-kitchen": {
+  "name_id": "Bagus Indonesian Kitchen",
+  "notes_id": "Indonesia. Pemilik Muslim, daging halal",
+  "jumuah_id": ""
+ },
+ "cafe-bintang": {
+  "name_id": "Cafe BINTANG",
+  "notes_id": "Malaysia/Asia Tenggara. Pemilik Muslim, daging halal; ruang salat",
+  "jumuah_id": ""
+ },
+ "halal-wagyu-gyukatsu-shinjuku-tei-osaka-umeda": {
+  "name_id": "Halal Wagyu Gyukatsu Shinjuku-tei Osaka Umeda",
+  "notes_id": "Bersertifikat halal, tanpa alkohol; ruang salat",
+  "jumuah_id": ""
+ },
+ "le-marrakech": {
+  "name_id": "Le Marrakech",
+  "notes_id": "Maroko. Pemilik Muslim, tanpa alkohol",
+  "jumuah_id": ""
+ },
+ "nazar-shinsaibashi": {
+  "name_id": "NAZAR Shinsaibashi",
+  "notes_id": "Turki. Bersertifikat halal, pemilik Muslim; ruang salat",
+  "jumuah_id": ""
+ },
+ "osaka-halal-restaurant": {
+  "name_id": "Osaka Halal Restaurant",
+  "notes_id": "Pakistan. Tersertifikasi standar MS1500. ~1 menit dari Masjid Osaka (koordinat perkiraan)",
+  "jumuah_id": ""
+ },
+ "ramen-gyukotsu-king-shin-osaka": {
+  "name_id": "Ramen Gyukotsu King Shin-Osaka",
+  "notes_id": "Ramen kaldu tulang sapi bersertifikat halal, tanpa alkohol. Di dalam area stasiun JR Shin-Osaka",
+  "jumuah_id": ""
+ },
+ "shalimar": {
+  "name_id": "SHALIMAR",
+  "notes_id": "Pakistan/India. Bersertifikat halal, pemilik Muslim",
+  "jumuah_id": ""
+ },
+ "ryotei-jyusouya": {
+  "name_id": "Ryotei Jyusouya",
+  "notes_id": "Jepang; bersertifikat halal; ruang salat",
+  "jumuah_id": ""
+ },
+ "kobe-halal-food": {
+  "name_id": "Kobe Halal Food",
+  "notes_id": "Toko bahan makanan halal & daging, 2 menit jalan kaki dari Masjid Kobe",
+  "jumuah_id": ""
+ },
+ "kobe-motomachi-tatsuya-halal-kobe-beef": {
+  "name_id": "Kobe Motomachi Tatsuya (Halal Kobe Beef)",
+  "notes_id": "Toko daging yang menjual daging sapi Kobe bersertifikat halal (beku, kemasan vakum)",
+  "jumuah_id": ""
+ },
+ "japaneid-osaka": {
+  "name_id": "JAPANeid Osaka",
+  "notes_id": "Camilan & suvenir Jepang halal; ruang salat dengan tempat wudu",
+  "jumuah_id": ""
+ }
+}
