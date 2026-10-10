@@ -1,0 +1,342 @@
+{
+ "osaka-ibaraki-mosque": {
+  "name_en": "Osaka Ibaraki Mosque",
+  "notes_en": "7 min walk from Toyokawa monorail station. Limited parking",
+  "jumuah_en": ""
+ },
+ "hyogo-masjid-jan-academy": {
+  "name_en": "Hyogo Masjid (Jan Academy)",
+  "notes_en": "Open 24 hours per VISIT KOBE. ~15 min walk from Sannomiya",
+  "jumuah_en": ""
+ },
+ "kobe-muslim-mosque": {
+  "name_en": "Kobe Muslim Mosque",
+  "notes_en": "Japan's first mosque (1935). ~10 min walk from Motomachi/Sannomiya. Jumuah livestreamed",
+  "jumuah_en": ""
+ },
+ "shiga-masjid": {
+  "name_en": "Shiga Masjid",
+  "notes_en": "Established 2018",
+  "jumuah_en": ""
+ },
+ "kyoto-central-masjid": {
+  "name_en": "Kyoto Central Masjid",
+  "notes_en": "Run by Kyoto Muslim Community. Separate women's floor; halal grocery. No bike parking",
+  "jumuah_en": "Two slots: khutbah 12:15 and 12:55"
+ },
+ "kyoto-masjid-kyoto-muslim-association": {
+  "name_en": "Kyoto Masjid (Kyoto Muslim Association)",
+  "notes_en": "Tue-Sat 12:00-18:00, closed Sun. Very limited wudu; sources differ on floor (1F/B1)",
+  "jumuah_en": "12:30, 13:00, 13:30 (men only)"
+ },
+ "masjid-al-huda": {
+  "name_en": "Masjid Al-Huda",
+  "notes_en": "Run by Al-Huda Muslim Association. ~5 min walk from Rokujizo Station",
+  "jumuah_en": ""
+ },
+ "miki-masjid": {
+  "name_en": "Miki Masjid",
+  "notes_en": "Rural, reachable by car only. Some sources give 134-1 Iwamiya",
+  "jumuah_en": ""
+ },
+ "nara-masjid-iqra-academy": {
+  "name_en": "Nara Masjid & Iqra Academy",
+  "notes_en": "Women's room, wudu, parking. 9 min walk from JR Kyobate",
+  "jumuah_en": "12:00-13:00 (per Halal Navi, 2026)"
+ },
+ "japan-da-wah-centre-masjid-al-da-wah": {
+  "name_en": "Japan Da'wah Centre & Masjid Al Da'wah",
+  "notes_en": "~1 min walk from JR Sugimotocho Station. Coordinates not verified",
+  "jumuah_en": ""
+ },
+ "masjid-istiqlal-osaka": {
+  "name_en": "Masjid Istiqlal Osaka",
+  "notes_en": "Indonesian community mosque; women's space; ~6 min walk from JR Imamiya",
+  "jumuah_en": ""
+ },
+ "osaka-grand-masjid-osaka-islamic-center": {
+  "name_en": "Osaka Grand Masjid (Osaka Islamic Center)",
+  "notes_en": "Tel 06-6477-9862. Coordinates not verified",
+  "jumuah_en": ""
+ },
+ "osaka-masjid": {
+  "name_en": "Osaka Masjid",
+  "notes_en": "~6 min walk from Chibune Station. Halal restaurants nearby in Owada",
+  "jumuah_en": "13:30 (per official site)"
+ },
+ "islamic-research-center-japan": {
+  "name_en": "Islamic Research Center Japan",
+  "notes_en": "4th floor of a building",
+  "jumuah_en": ""
+ },
+ "kansai-international-airport-t1-prayer-room-3f": {
+  "name_en": "Kansai International Airport T1 Prayer Room (3F)",
+  "notes_en": "Near Korean Air lounge. Separate men/women rooms and wudu. None in Terminal 2",
+  "jumuah_en": ""
+ },
+ "kansai-international-airport-t1-prayer-room-gate-area-main-s": {
+  "name_en": "Kansai International Airport T1 Prayer Room (Gate Area, Main/South)",
+  "notes_en": "Airside, after security. Men/women separated with wudu",
+  "jumuah_en": ""
+ },
+ "kansai-international-airport-t1-prayer-room-gate-area-north-": {
+  "name_en": "Kansai International Airport T1 Prayer Room (Gate Area, North Wing)",
+  "notes_en": "Airside, after security. Men/women separated with wudu",
+  "jumuah_en": ""
+ },
+ "rinku-premium-outlets-prayer-room": {
+  "name_en": "Rinku Premium Outlets Prayer Room",
+  "notes_en": "One stop from Kansai Airport",
+  "jumuah_en": ""
+ },
+ "kicc-kobe-international-community-center-prayer-space": {
+  "name_en": "KICC Kobe International Community Center Prayer Space",
+  "notes_en": "Weekdays 10-20, weekends 10-18, closed holidays. Foot-wash tub",
+  "jumuah_en": ""
+ },
+ "kamomeria-naka-pier-central-terminal-prayer-space": {
+  "name_en": "Kamomeria (Naka Pier Central Terminal) Prayer Space",
+  "notes_en": "Weekdays 8:30-20:30, weekends 8:15-21:00. Sink for wudu",
+  "jumuah_en": ""
+ },
+ "kobe-airport-prayer-room": {
+  "name_en": "Kobe Airport Prayer Room",
+  "notes_en": "Open to all visitors",
+  "jumuah_en": ""
+ },
+ "rokko-snow-park-prayer-room": {
+  "name_en": "Rokko Snow Park Prayer Room",
+  "notes_en": "Winter season only; in summer (GREENIA) on request. Men/women rooms",
+  "jumuah_en": ""
+ },
+ "kyoto-international-community-house-kokoka-prayer-room": {
+  "name_en": "Kyoto International Community House (kokoka) Prayer Room",
+  "notes_en": "9:00-21:00, closed Mon. Small room (max 5), no reservation",
+  "jumuah_en": ""
+ },
+ "kyoto-museum-of-traditional-crafts-prayer-room": {
+  "name_en": "Kyoto Museum of Traditional Crafts Prayer Room",
+  "notes_en": "",
+  "jumuah_en": ""
+ },
+ "m-s-kyoto-information-center-prayer-room": {
+  "name_en": "M's Kyoto Information Center Prayer Room",
+  "notes_en": "Near Kyoto Station",
+  "jumuah_en": ""
+ },
+ "nijo-castle-prayer-space": {
+  "name_en": "Nijo Castle Prayer Space",
+  "notes_en": "8:45-17:00. Ask at the Castle Estate office; admission required",
+  "jumuah_en": ""
+ },
+ "toei-kyoto-studio-park-uzumasa-eigamura-prayer-space": {
+  "name_en": "Toei Kyoto Studio Park (Uzumasa Eigamura) Prayer Space",
+  "notes_en": "Theme park; no reservation needed",
+  "jumuah_en": ""
+ },
+ "kai-nara-prayer-space": {
+  "name_en": "KAI (Nara) Prayer Space",
+  "notes_en": "",
+  "jumuah_en": ""
+ },
+ "nara-city-tourist-information-center-prayer-room-jr-nara-sta": {
+  "name_en": "Nara City Tourist Information Center Prayer Room (JR Nara Station)",
+  "notes_en": "At JR Nara Station. Center open 9:00-21:00",
+  "jumuah_en": ""
+ },
+ "namba-city-prayer-room": {
+  "name_en": "Namba CITY Prayer Room",
+  "notes_en": "Get code at B2 info desk. Approx 11:30-20:30; men/women, wudu",
+  "jumuah_en": ""
+ },
+ "osaka-international-convention-center-prayer-room": {
+  "name_en": "Osaka International Convention Center Prayer Room",
+  "notes_en": "Wudu and qibla",
+  "jumuah_en": ""
+ },
+ "osaka-station-city-prayer-room": {
+  "name_en": "Osaka Station City Prayer Room",
+  "notes_en": "Register first at OSC Information, North Gate Bldg 3F. Hours 10-18 (some sources 11-19)",
+  "jumuah_en": ""
+ },
+ "tempozan-marketplace-prayer-room": {
+  "name_en": "Tempozan Marketplace Prayer Room",
+  "notes_en": "Near Kaiyukan aquarium. Unlock code from Kaiyukan info center; men/women, wudu",
+  "jumuah_en": ""
+ },
+ "lalaport-expocity-prayer-room": {
+  "name_en": "LaLaport EXPOCITY Prayer Room",
+  "notes_en": "Ask at Hikari no Hiroba information 1F. Men/women rooms with wudu",
+  "jumuah_en": ""
+ },
+ "ali-s-halal-kitchen-kobe": {
+  "name_en": "Ali's Halal Kitchen (Kobe)",
+  "notes_en": "Pakistani/Indian, Muslim owner, no alcohol",
+  "jumuah_en": ""
+ },
+ "hyogo-shawarma-bakery": {
+  "name_en": "Hyogo Shawarma & Bakery",
+  "notes_en": "Listed as halal food by VISIT KOBE; near Kasuganomichi. Coordinates not verified",
+  "jumuah_en": ""
+ },
+ "kobe-shawarma": {
+  "name_en": "Kobe Shawarma",
+  "notes_en": "Listed as halal food by VISIT KOBE; next to Kobe Mosque. Coordinates not verified",
+  "jumuah_en": ""
+ },
+ "mezban-mosaic-harborland": {
+  "name_en": "Mezban (Mosaic Harborland)",
+  "notes_en": "Indian; certified by Osaka Halal Association. Coordinates not verified",
+  "jumuah_en": ""
+ },
+ "naan-inn": {
+  "name_en": "Naan Inn",
+  "notes_en": "Pakistani/Indian, all halal, 1 min from Kobe Mosque. Closed Mon",
+  "jumuah_en": ""
+ },
+ "tsuki-usagi": {
+  "name_en": "Tsuki Usagi",
+  "notes_en": "Halal-certified Kobe beef courses; reserve 2+ days ahead",
+  "jumuah_en": ""
+ },
+ "gyumon-kyoto-station-halal-wagyu-ramen-gyukatsu": {
+  "name_en": "GYUMON Kyoto Station (Halal Wagyu Ramen & Gyukatsu)",
+  "notes_en": "Certified by Malaysia Halal Corporation, no alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "gyumon-volcano-kyoto-kawaramachi": {
+  "name_en": "GYUMON Volcano Kyoto Kawaramachi",
+  "notes_en": "Halal spicy wagyu ramen; no alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "halal-ramen-japan-kyoto": {
+  "name_en": "HALAL RAMEN JAPAN Kyoto",
+  "notes_en": "Halal certified, no alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "halal-ramen-ayam-ya-karasuma-kyoto": {
+  "name_en": "Halal Ramen Ayam-Ya Karasuma Kyoto",
+  "notes_en": "Japan Halal Foundation certified (FPS-108), no alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "halal-wagyu-ramen-shinjuku-tei-gion-kyoto": {
+  "name_en": "Halal Wagyu Ramen Shinjuku-tei Gion Kyoto",
+  "notes_en": "Halal certified, no pork/alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "halal-wagyu-ramen-shinjuku-tei-kiyomizu-kyoto": {
+  "name_en": "Halal Wagyu Ramen Shinjuku-tei Kiyomizu Kyoto",
+  "notes_en": "Halal certified, no pork/alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "istanbul-saray": {
+  "name_en": "Istanbul Saray",
+  "notes_en": "Turkish. Halal certified, Muslim owner. Near Kawaramachi Sanjo",
+  "jumuah_en": ""
+ },
+ "raju-tanbaguchi": {
+  "name_en": "RAJU Tanbaguchi",
+  "notes_en": "Indian/Nepali. Listed halal certified & Muslim owner; not on Kyoto council's public list",
+  "jumuah_en": ""
+ },
+ "wagyu-sukiyaki-halra-kyoto": {
+  "name_en": "Wagyu Sukiyaki HALRA Kyoto",
+  "notes_en": "Halal certified per Halal Gourmet; no alcohol",
+  "jumuah_en": ""
+ },
+ "yoshiya-arashiyama": {
+  "name_en": "Yoshiya Arashiyama",
+  "notes_en": "Kyoto Halal Council certified, no alcohol. Prayer room with wudu (for patrons)",
+  "jumuah_en": ""
+ },
+ "gyumon-nara-halal-wagyu-ramen-gyukatsu": {
+  "name_en": "GYUMON Nara (Halal Wagyu Ramen & Gyukatsu)",
+  "notes_en": "Certified by Malaysia Halal Corporation, no alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "halal-turkish-kebab-and-ice-cream-nara": {
+  "name_en": "Halal Turkish Kebab and Ice Cream (Nara)",
+  "notes_en": "Muslim owner, no alcohol. On Sanjo-dori",
+  "jumuah_en": ""
+ },
+ "japanese-restaurant-yoshino-wadokoro-yoshino": {
+  "name_en": "Japanese Restaurant Yoshino (Wadokoro Yoshino)",
+  "notes_en": "Halal certified per Halal Gourmet. Near JR Nara Station",
+  "jumuah_en": ""
+ },
+ "ponte-rosso-halal-veg": {
+  "name_en": "Ponte Rosso Halal & Veg",
+  "notes_en": "Italian; halal meat, halal kitchen; prayer space. Reservation recommended",
+  "jumuah_en": ""
+ },
+ "umemori-sushi-school-main-store": {
+  "name_en": "Umemori Sushi School (Main Store)",
+  "notes_en": "Hands-on sushi class; halal certified; prayer space. Reservation required",
+  "jumuah_en": ""
+ },
+ "ali-s-kitchen-shinsaibashi": {
+  "name_en": "Ali's Kitchen (Shinsaibashi)",
+  "notes_en": "Halal certified, Muslim owner, no alcohol/pork; prayer space",
+  "jumuah_en": ""
+ },
+ "bagus-indonesian-kitchen": {
+  "name_en": "Bagus Indonesian Kitchen",
+  "notes_en": "Indonesian. Muslim owner, halal meat",
+  "jumuah_en": ""
+ },
+ "cafe-bintang": {
+  "name_en": "Cafe BINTANG",
+  "notes_en": "Malaysian/SE Asian. Muslim owner, halal meat; prayer space",
+  "jumuah_en": ""
+ },
+ "halal-wagyu-gyukatsu-shinjuku-tei-osaka-umeda": {
+  "name_en": "Halal Wagyu Gyukatsu Shinjuku-tei Osaka Umeda",
+  "notes_en": "Halal certified, no alcohol; prayer space",
+  "jumuah_en": ""
+ },
+ "le-marrakech": {
+  "name_en": "Le Marrakech",
+  "notes_en": "Moroccan. Muslim owner, no alcohol",
+  "jumuah_en": ""
+ },
+ "nazar-shinsaibashi": {
+  "name_en": "NAZAR Shinsaibashi",
+  "notes_en": "Turkish. Halal certified, Muslim owner; prayer space",
+  "jumuah_en": ""
+ },
+ "osaka-halal-restaurant": {
+  "name_en": "Osaka Halal Restaurant",
+  "notes_en": "Pakistani. Certified to MS1500. ~1 min from Osaka Masjid (coords approximate)",
+  "jumuah_en": ""
+ },
+ "ramen-gyukotsu-king-shin-osaka": {
+  "name_en": "Ramen Gyukotsu King Shin-Osaka",
+  "notes_en": "Halal-certified beef-bone ramen, no alcohol. Inside JR Shin-Osaka station area",
+  "jumuah_en": ""
+ },
+ "shalimar": {
+  "name_en": "SHALIMAR",
+  "notes_en": "Pakistani/Indian. Halal certified, Muslim owner",
+  "jumuah_en": ""
+ },
+ "ryotei-jyusouya": {
+  "name_en": "Ryotei Jyusouya",
+  "notes_en": "Japanese; halal certified; prayer space",
+  "jumuah_en": ""
+ },
+ "kobe-halal-food": {
+  "name_en": "Kobe Halal Food",
+  "notes_en": "Halal grocery & meat, 2 min walk from Kobe Mosque",
+  "jumuah_en": ""
+ },
+ "kobe-motomachi-tatsuya-halal-kobe-beef": {
+  "name_en": "Kobe Motomachi Tatsuya (Halal Kobe Beef)",
+  "notes_en": "Butcher selling halal-certified Kobe beef (frozen, vacuum-packed)",
+  "jumuah_en": ""
+ },
+ "japaneid-osaka": {
+  "name_en": "JAPANeid Osaka",
+  "notes_en": "Halal Japanese snacks & souvenirs; prayer space with wudu",
+  "jumuah_en": ""
+ }
+}

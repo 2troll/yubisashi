@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera la guía halal de Kansai en árabe (dalil/) y en indonesio (panduan/).
+"""Genera la guía halal de Kansai en árabe (dalil/) en indonesio (panduan/) y en inglés (guide/).
 
 Datos: datos/lugares.json (exportado de Halal Kansai, src/modules/places/data.ts)
 más una traducción por idioma (datos/lugares-ar.json, datos/lugares-id.json).
@@ -17,6 +17,8 @@ TIPOS_ORDEN = ["mosque", "prayer", "restaurant", "shop"]
 ICONOS = {"mosque": "🕌", "prayer": "🧎", "restaurant": "🍽️", "shop": "🛍️"}
 
 # Tony no guía en indonesio: a ese público se le ofrece el tour en inglés.
+NOMBRE_IDIOMA = {"ar": "العربية", "id": "Bahasa Indonesia", "en": "English"}
+
 IDIOMAS = {
     "ar": {
         "carpeta": "dalil", "dir": "rtl", "tours": "https://tonykansaiguide.com/ar/",
@@ -36,7 +38,7 @@ IDIOMAS = {
         "ok": "✔ من الموقع الرسمي", "ext": "من دليل خارجي، يرجى التأكد قبل الزيارة",
         "aviso": "يرجى التأكد من مواعيد العمل قبل الزيارة، فقد تتغير المعلومات. المطاعم المذكورة لا تقدم الكحول.",
         "autor": "إعداد: توني هانما، مرشد سياحي في أوساكا",
-        "app": "تطبيق المحادثة للمطاعم", "otra": "Bahasa Indonesia",
+        "app": "تطبيق المحادثة للمطاعم",
     },
     "id": {
         "carpeta": "panduan", "dir": "ltr", "tours": "https://tonykansaiguide.com/en/",
@@ -56,7 +58,27 @@ IDIOMAS = {
         "ok": "✔ Dari situs resmi", "ext": "Dari panduan pihak ketiga, mohon cek sebelum berkunjung",
         "aviso": "Mohon cek jam buka sebelum berkunjung, informasi bisa berubah. Restoran dalam daftar ini tidak menyajikan alkohol.",
         "autor": "Disusun oleh Tony Hanma, pemandu wisata di Osaka",
-        "app": "Aplikasi percakapan untuk restoran", "otra": "العربية",
+        "app": "Aplikasi percakapan untuk restoran",
+    },
+    "en": {
+        "carpeta": "guide", "dir": "ltr", "tours": "https://tonykansaiguide.com/en/",
+        "fuente": 'system-ui,"Segoe UI","Helvetica Neue",sans-serif',
+        "ciudades": {"Osaka": "Osaka", "Kyoto": "Kyoto", "Kobe": "Kobe", "Nara": "Nara",
+                     "Izumisano": "Izumisano (Kansai Airport)", "Ibaraki": "Ibaraki", "Kusatsu": "Kusatsu",
+                     "Miki": "Miki", "Yawata": "Yawata", "Suita": "Suita", "Sango": "Sango"},
+        "tipos": {"mosque": "Mosque", "prayer": "Prayer room", "restaurant": "Restaurant", "shop": "Shop"},
+        "titulo": "Halal Kansai Guide — Halal Food, Mosques and Prayer Rooms in Osaka and Kyoto",
+        "og": "Halal Kansai Guide — Osaka, Kyoto, Kobe, Nara",
+        "h1": "Halal Kansai Guide",
+        "desc": "Halal guide to Osaka, Kyoto, Kobe and Nara: {mosque} mosques, {prayer} prayer rooms and {restaurant} halal restaurants, with map links. Updated September 2026.",
+        "lead": "{mosque} mosques, {prayer} prayer rooms, {restaurant} halal restaurants and {shop} shops in Osaka, Kyoto, Kobe and Nara. Every entry comes from the place's official website or a trusted guide, updated September 2026.",
+        "cta": "<strong>Visiting Osaka or Kyoto?</strong><br>Private tours in English with Tony, a Muslim guide based in Osaka — halal meals and prayer times planned from the start.",
+        "cta_tours": "See the tours", "cta_wa": "WhatsApp",
+        "ciudades_t": "Cities:", "jumuah": "Jumu'ah:", "mapa": "Open in Google Maps",
+        "ok": "✔ From the official website", "ext": "From a third-party guide, please check before visiting",
+        "aviso": "Please check opening hours before visiting; details can change. The restaurants listed do not serve alcohol.",
+        "autor": "Compiled by Tony Hanma, tour guide in Osaka",
+        "app": "Conversation app for restaurants",
     },
 }
 
@@ -76,8 +98,9 @@ def tarjeta(p: dict, tr: dict, t: dict, lang: str) -> str:
 def pagina(lang: str, lugares: list, tr: dict) -> str:
     t = IDIOMAS[lang]
     url = BASE + t["carpeta"] + "/"
-    otro = "id" if lang == "ar" else "ar"
-    url_otra = BASE + IDIOMAS[otro]["carpeta"] + "/"
+    otros = [o for o in IDIOMAS if o != lang]
+    alternos = "\n".join(f'<link rel="alternate" hreflang="{o}" href="{BASE}{IDIOMAS[o]["carpeta"]}/">' for o in IDIOMAS)
+    enlaces_idioma = " · ".join(f'<a href="{BASE}{IDIOMAS[o]["carpeta"]}/" lang="{o}">{NOMBRE_IDIOMA[o]}</a>' for o in otros)
 
     por_ciudad: dict[str, list] = {}
     for p in lugares:
@@ -101,8 +124,7 @@ def pagina(lang: str, lugares: list, tr: dict) -> str:
 <title>{t["titulo"]}</title>
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{url}">
-<link rel="alternate" hreflang="{lang}" href="{url}">
-<link rel="alternate" hreflang="{otro}" href="{url_otra}">
+{alternos}
 <meta property="og:title" content="{t["og"]}">
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
@@ -136,7 +158,7 @@ footer a{{color:var(--accent)}}
 <p class="lead">{t["lead"].format(**n)}</p>
 <div class="cta"><div>{t["cta"]}</div>
 <div><a href="{t["tours"]}">{t["cta_tours"]}</a> <a href="{WHATSAPP}">{t["cta_wa"]}</a></div></div>
-<nav>{t["ciudades_t"]} {indice} · <a href="{url_otra}" lang="{otro}">{t["otra"]}</a></nav>
+<nav>{t["ciudades_t"]} {indice}<br>{enlaces_idioma}</nav>
 </header>
 {secciones}
 <footer>
