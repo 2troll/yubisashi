@@ -1,0 +1,342 @@
+{
+ "osaka-ibaraki-mosque": {
+  "name_ar": "مسجد أوساكا إيباراكي",
+  "notes_ar": "يبعد 7 دقائق سيرًا على الأقدام عن محطة قطار تويوكاوا المعلق (المونوريل). مواقف السيارات محدودة",
+  "jumuah_ar": ""
+ },
+ "hyogo-masjid-jan-academy": {
+  "name_ar": "مسجد هيوغو (أكاديمية جان)",
+  "notes_ar": "مفتوح 24 ساعة وفقًا لموقع VISIT KOBE. يبعد حوالي 15 دقيقة سيرًا على الأقدام عن سانوميا",
+  "jumuah_ar": ""
+ },
+ "kobe-muslim-mosque": {
+  "name_ar": "مسجد كوبي للمسلمين",
+  "notes_ar": "أول مسجد في اليابان (1935). يبعد حوالي 10 دقائق سيرًا على الأقدام عن موتوماتشي/سانوميا. يتم بث صلاة الجمعة مباشرةً",
+  "jumuah_ar": ""
+ },
+ "shiga-masjid": {
+  "name_ar": "مسجد شيغا",
+  "notes_ar": "تأسس عام 2018",
+  "jumuah_ar": ""
+ },
+ "kyoto-central-masjid": {
+  "name_ar": "مسجد كيوتو المركزي",
+  "notes_ar": "تديره الجالية المسلمة في كيوتو. طابق منفصل للنساء؛ بقالة حلال. لا توجد مواقف للدراجات الهوائية",
+  "jumuah_ar": "فترتان: الخطبة الساعة 12:15 والساعة 12:55"
+ },
+ "kyoto-masjid-kyoto-muslim-association": {
+  "name_ar": "مسجد كيوتو (جمعية مسلمي كيوتو)",
+  "notes_ar": "من الثلاثاء إلى السبت 12:00-18:00، مغلق الأحد. مرافق الوضوء محدودة للغاية؛ تختلف المصادر حول الطابق (1F/B1)",
+  "jumuah_ar": "12:30، 13:00، 13:30 (للرجال فقط)"
+ },
+ "masjid-al-huda": {
+  "name_ar": "مسجد الهدى",
+  "notes_ar": "تديره جمعية الهدى للمسلمين. يبعد حوالي 5 دقائق سيرًا على الأقدام عن محطة روكوجيزو",
+  "jumuah_ar": ""
+ },
+ "miki-masjid": {
+  "name_ar": "مسجد ميكي",
+  "notes_ar": "في منطقة ريفية، يمكن الوصول إليه بالسيارة فقط. تذكر بعض المصادر العنوان 134-1 إيواميا",
+  "jumuah_ar": ""
+ },
+ "nara-masjid-iqra-academy": {
+  "name_ar": "مسجد نارا وأكاديمية إقرأ",
+  "notes_ar": "غرفة للنساء، وضوء، ومواقف للسيارات. يبعد 9 دقائق سيرًا على الأقدام عن محطة JR كيوباتي",
+  "jumuah_ar": "12:00-13:00 (وفقًا لموقع Halal Navi، 2026)"
+ },
+ "japan-da-wah-centre-masjid-al-da-wah": {
+  "name_ar": "مركز الدعوة في اليابان ومسجد الدعوة",
+  "notes_ar": "يبعد حوالي دقيقة واحدة سيرًا على الأقدام عن محطة JR سوغيموتوتشو. الإحداثيات غير مؤكدة",
+  "jumuah_ar": ""
+ },
+ "masjid-istiqlal-osaka": {
+  "name_ar": "مسجد الاستقلال أوساكا",
+  "notes_ar": "مسجد للجالية الإندونيسية؛ مصلّى للنساء؛ يبعد حوالي 6 دقائق سيرًا على الأقدام عن محطة JR إماميا",
+  "jumuah_ar": ""
+ },
+ "osaka-grand-masjid-osaka-islamic-center": {
+  "name_ar": "مسجد أوساكا الكبير (المركز الإسلامي في أوساكا)",
+  "notes_ar": "هاتف 06-6477-9862. الإحداثيات غير مؤكدة",
+  "jumuah_ar": ""
+ },
+ "osaka-masjid": {
+  "name_ar": "مسجد أوساكا",
+  "notes_ar": "يبعد حوالي 6 دقائق سيرًا على الأقدام عن محطة تشيبوني. توجد مطاعم حلال قريبة في أووادا",
+  "jumuah_ar": "13:30 (وفقًا للموقع الرسمي)"
+ },
+ "islamic-research-center-japan": {
+  "name_ar": "مركز البحوث الإسلامية في اليابان",
+  "notes_ar": "الطابق الرابع من مبنى",
+  "jumuah_ar": ""
+ },
+ "kansai-international-airport-t1-prayer-room-3f": {
+  "name_ar": "غرفة الصلاة في مطار كانساي الدولي المبنى 1 (الطابق 3F)",
+  "notes_ar": "بالقرب من صالة الخطوط الجوية الكورية. غرف منفصلة للرجال والنساء ومرافق للوضوء. لا يوجد مصلّى في المبنى 2",
+  "jumuah_ar": ""
+ },
+ "kansai-international-airport-t1-prayer-room-gate-area-main-s": {
+  "name_ar": "غرفة الصلاة في مطار كانساي الدولي المبنى 1 (منطقة البوابات، المبنى الرئيسي/الجناح الجنوبي)",
+  "notes_ar": "داخل صالة المغادرة بعد التفتيش الأمني. منفصل للرجال والنساء مع وضوء",
+  "jumuah_ar": ""
+ },
+ "kansai-international-airport-t1-prayer-room-gate-area-north-": {
+  "name_ar": "غرفة الصلاة في مطار كانساي الدولي المبنى 1 (منطقة البوابات، الجناح الشمالي)",
+  "notes_ar": "داخل صالة المغادرة بعد التفتيش الأمني. منفصل للرجال والنساء مع وضوء",
+  "jumuah_ar": ""
+ },
+ "rinku-premium-outlets-prayer-room": {
+  "name_ar": "غرفة الصلاة في رينكو بريميوم أوتلتس",
+  "notes_ar": "محطة واحدة من مطار كانساي",
+  "jumuah_ar": ""
+ },
+ "kicc-kobe-international-community-center-prayer-space": {
+  "name_ar": "مصلّى مركز كوبي الدولي للجاليات (KICC)",
+  "notes_ar": "أيام الأسبوع 10-20، عطلات نهاية الأسبوع 10-18، مغلق في العطلات الرسمية. حوض لغسل القدمين",
+  "jumuah_ar": ""
+ },
+ "kamomeria-naka-pier-central-terminal-prayer-space": {
+  "name_ar": "مصلّى كاموميريا (المحطة المركزية لرصيف ناكا)",
+  "notes_ar": "أيام الأسبوع 8:30-20:30، عطلات نهاية الأسبوع 8:15-21:00. مغسلة للوضوء",
+  "jumuah_ar": ""
+ },
+ "kobe-airport-prayer-room": {
+  "name_ar": "غرفة الصلاة في مطار كوبي",
+  "notes_ar": "مفتوحة لجميع الزوار",
+  "jumuah_ar": ""
+ },
+ "rokko-snow-park-prayer-room": {
+  "name_ar": "غرفة الصلاة في حديقة روكو الثلجية (روكو سنو بارك)",
+  "notes_ar": "خلال فصل الشتاء فقط؛ في الصيف (GREENIA) عند الطلب. غرف منفصلة للرجال والنساء",
+  "jumuah_ar": ""
+ },
+ "kyoto-international-community-house-kokoka-prayer-room": {
+  "name_ar": "غرفة الصلاة في دار كيوتو الدولية للجاليات (كوكوكا)",
+  "notes_ar": "9:00-21:00، مغلق يوم الإثنين. غرفة صغيرة (بحد أقصى 5 أشخاص)، لا حاجة للحجز",
+  "jumuah_ar": ""
+ },
+ "kyoto-museum-of-traditional-crafts-prayer-room": {
+  "name_ar": "غرفة الصلاة في متحف كيوتو للحرف التقليدية",
+  "notes_ar": "",
+  "jumuah_ar": ""
+ },
+ "m-s-kyoto-information-center-prayer-room": {
+  "name_ar": "غرفة الصلاة في مركز إم إز كيوتو للمعلومات",
+  "notes_ar": "بالقرب من محطة كيوتو",
+  "jumuah_ar": ""
+ },
+ "nijo-castle-prayer-space": {
+  "name_ar": "مصلّى قلعة نيجو",
+  "notes_ar": "8:45-17:00. اطلب في مكتب إدارة القلعة؛ يتطلب دفع رسوم الدخول",
+  "jumuah_ar": ""
+ },
+ "toei-kyoto-studio-park-uzumasa-eigamura-prayer-space": {
+  "name_ar": "مصلّى مدينة توي كيوتو للأستوديوهات (أوزوماسا إيغامورا)",
+  "notes_ar": "مدينة ترفيهية؛ لا يلزم الحجز مسبقًا",
+  "jumuah_ar": ""
+ },
+ "kai-nara-prayer-space": {
+  "name_ar": "مصلّى كاي (نارا)",
+  "notes_ar": "",
+  "jumuah_ar": ""
+ },
+ "nara-city-tourist-information-center-prayer-room-jr-nara-sta": {
+  "name_ar": "غرفة الصلاة في مركز الاستعلامات السياحي لمدينة نارا (محطة JR نارا)",
+  "notes_ar": "في محطة JR نارا. المركز مفتوح 9:00-21:00",
+  "jumuah_ar": ""
+ },
+ "namba-city-prayer-room": {
+  "name_ar": "غرفة الصلاة في نامبا سيتي",
+  "notes_ar": "احصل على الرمز من مكتب الاستعلامات في الطابق B2. من حوالي 11:30 إلى 20:30؛ رجال/نساء، وضوء",
+  "jumuah_ar": ""
+ },
+ "osaka-international-convention-center-prayer-room": {
+  "name_ar": "غرفة الصلاة في مركز أوساكا الدولي للمؤتمرات",
+  "notes_ar": "وضوء وقبلة",
+  "jumuah_ar": ""
+ },
+ "osaka-station-city-prayer-room": {
+  "name_ar": "غرفة الصلاة في أوساكا ستيشن سيتي",
+  "notes_ar": "سجّل أولاً لدى مكتب استعلامات OSC، مبنى البوابة الشمالية الطابق 3F. الساعات 10-18 (بعض المصادر تذكر 11-19)",
+  "jumuah_ar": ""
+ },
+ "tempozan-marketplace-prayer-room": {
+  "name_ar": "غرفة الصلاة في تيمبوزان ماركتبليس",
+  "notes_ar": "بالقرب من أكواريوم كايوكان. رمز الفتح من مركز معلومات كايوكان؛ رجال/نساء، وضوء",
+  "jumuah_ar": ""
+ },
+ "lalaport-expocity-prayer-room": {
+  "name_ar": "غرفة الصلاة في لالا بورت إكسبوسيتي",
+  "notes_ar": "اسأل عند استعلامات هيكاري نو هيروبا في الطابق 1F. غرف للرجال والنساء مع وضوء",
+  "jumuah_ar": ""
+ },
+ "ali-s-halal-kitchen-kobe": {
+  "name_ar": "علي حلال كيتشن (كوبي)",
+  "notes_ar": "باكستاني/هندي، المالك مسلم، بدون كحول",
+  "jumuah_ar": ""
+ },
+ "hyogo-shawarma-bakery": {
+  "name_ar": "شاورما ومخبز هيوغو",
+  "notes_ar": "مدرج كطعام حلال وفقًا لموقع VISIT KOBE؛ بالقرب من كاسوغانوميتشي. الإحداثيات غير مؤكدة",
+  "jumuah_ar": ""
+ },
+ "kobe-shawarma": {
+  "name_ar": "كوبي شاورما",
+  "notes_ar": "مدرج كطعام حلال وفقًا لموقع VISIT KOBE؛ بجوار مسجد كوبي. الإحداثيات غير مؤكدة",
+  "jumuah_ar": ""
+ },
+ "mezban-mosaic-harborland": {
+  "name_ar": "ميزبان (موزاييك هاربورلاند)",
+  "notes_ar": "هندي؛ معتمد من جمعية أوساكا للحلال. الإحداثيات غير مؤكدة",
+  "jumuah_ar": ""
+ },
+ "naan-inn": {
+  "name_ar": "نان إن",
+  "notes_ar": "باكستاني/هندي، الأطعمة كلها حلال، على بعد دقيقة واحدة من مسجد كوبي. مغلق يوم الإثنين",
+  "jumuah_ar": ""
+ },
+ "tsuki-usagi": {
+  "name_ar": "تسكي أوساغي",
+  "notes_ar": "وجبات لحم بقر كوبي معتمدة حلال؛ يلزم الحجز قبل يومين أو أكثر",
+  "jumuah_ar": ""
+ },
+ "gyumon-kyoto-station-halal-wagyu-ramen-gyukatsu": {
+  "name_ar": "غيومون محطة كيوتو (رامن الواغيو الحلال وغيوكاتسو)",
+  "notes_ar": "معتمد من مؤسسة حلال ماليزيا، بدون كحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "gyumon-volcano-kyoto-kawaramachi": {
+  "name_ar": "غيومون بركان كيوتو كاواراماتشي",
+  "notes_ar": "رامن واغيو حار حلال؛ بدون كحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "halal-ramen-japan-kyoto": {
+  "name_ar": "حلال رامن اليابان كيوتو",
+  "notes_ar": "معتمد حلال، بدون كحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "halal-ramen-ayam-ya-karasuma-kyoto": {
+  "name_ar": "حلال رامن أيام-يا كاراسوما كيوتو",
+  "notes_ar": "معتمد من مؤسسة الحلال اليابانية (FPS-108)، بدون كحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "halal-wagyu-ramen-shinjuku-tei-gion-kyoto": {
+  "name_ar": "شينجوكو-تي حلال واغيو رامن غيون كيوتو",
+  "notes_ar": "معتمد حلال، خالٍ من لحم الخنزير والكحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "halal-wagyu-ramen-shinjuku-tei-kiyomizu-kyoto": {
+  "name_ar": "شينجوكو-تي حلال واغيو رامن كيوميزو كيوتو",
+  "notes_ar": "معتمد حلال، خالٍ من لحم الخنزير والكحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "istanbul-saray": {
+  "name_ar": "إسطنبول سراي",
+  "notes_ar": "تركي. معتمد حلال، المالك مسلم. بالقرب من كاواراماتشي سانجو",
+  "jumuah_ar": ""
+ },
+ "raju-tanbaguchi": {
+  "name_ar": "راجو تانباغوتشي",
+  "notes_ar": "هندي/نيبالي. مدرج كمعتمد حلال والمالك مسلم؛ غير موجود في القائمة العامة لمجلس كيوتو",
+  "jumuah_ar": ""
+ },
+ "wagyu-sukiyaki-halra-kyoto": {
+  "name_ar": "واغيو سوكيياكي هالرا كيوتو",
+  "notes_ar": "معتمد حلال وفقًا لـ Halal Gourmet؛ بدون كحول",
+  "jumuah_ar": ""
+ },
+ "yoshiya-arashiyama": {
+  "name_ar": "يوشيا أراشيياما",
+  "notes_ar": "معتمد من مجلس كيوتو للحلال، بدون كحول. غرفة صلاة مع وضوء (للزبائن)",
+  "jumuah_ar": ""
+ },
+ "gyumon-nara-halal-wagyu-ramen-gyukatsu": {
+  "name_ar": "غيومون نارا (رامن الواغيو الحلال وغيوكاتسو)",
+  "notes_ar": "معتمد من مؤسسة حلال ماليزيا، بدون كحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "halal-turkish-kebab-and-ice-cream-nara": {
+  "name_ar": "كباب ومثلجات تركية حلال (نارا)",
+  "notes_ar": "المالك مسلم، بدون كحول. في شارع سانجو-دوري",
+  "jumuah_ar": ""
+ },
+ "japanese-restaurant-yoshino-wadokoro-yoshino": {
+  "name_ar": "مطعم يوشينو الياباني (وادوكورو يوشينو)",
+  "notes_ar": "معتمد حلال وفقًا لـ Halal Gourmet. بالقرب من محطة JR نارا",
+  "jumuah_ar": ""
+ },
+ "ponte-rosso-halal-veg": {
+  "name_ar": "بونتي روسو حلال وفيج",
+  "notes_ar": "إيطالي؛ لحم حلال، مطبخ حلال؛ يتوفر مصلّى. يُنصح بالحجز",
+  "jumuah_ar": ""
+ },
+ "umemori-sushi-school-main-store": {
+  "name_ar": "مدرسة أوميموري للسوشي (الفرع الرئيسي)",
+  "notes_ar": "درس تطبيقي لإعداد السوشي؛ معتمد حلال؛ يتوفر مصلّى. يلزم الحجز مسبقًا",
+  "jumuah_ar": ""
+ },
+ "ali-s-kitchen-shinsaibashi": {
+  "name_ar": "علي كيتشن (شينسايباشي)",
+  "notes_ar": "معتمد حلال، المالك مسلم، بدون كحول أو لحم خنزير؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "bagus-indonesian-kitchen": {
+  "name_ar": "باغوس إندونيسيان كيتشن",
+  "notes_ar": "إندونيسي. المالك مسلم، اللحم حلال",
+  "jumuah_ar": ""
+ },
+ "cafe-bintang": {
+  "name_ar": "مقهى بينتانغ",
+  "notes_ar": "ماليزي/جنوب شرق آسيوي. المالك مسلم، اللحم حلال؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "halal-wagyu-gyukatsu-shinjuku-tei-osaka-umeda": {
+  "name_ar": "شينجوكو-تي حلال واغيو غيوكاتسو أوساكا أوميدا",
+  "notes_ar": "معتمد حلال، بدون كحول؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "le-marrakech": {
+  "name_ar": "لو مراكش",
+  "notes_ar": "مغربي. المالك مسلم، بدون كحول",
+  "jumuah_ar": ""
+ },
+ "nazar-shinsaibashi": {
+  "name_ar": "نزار شينسايباشي",
+  "notes_ar": "تركي. معتمد حلال، المالك مسلم؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "osaka-halal-restaurant": {
+  "name_ar": "مطعم أوساكا حلال",
+  "notes_ar": "باكستاني. حاصل على شهادة MS1500. حوالي دقيقة واحدة من مسجد أوساكا (الإحداثيات تقريبية)",
+  "jumuah_ar": ""
+ },
+ "ramen-gyukotsu-king-shin-osaka": {
+  "name_ar": "رامن غيوكوتسو كينغ شين-أوساكا",
+  "notes_ar": "رامن مرق عظام البقر معتمد حلال، بدون كحول. داخل منطقة محطة JR شين-أوساكا",
+  "jumuah_ar": ""
+ },
+ "shalimar": {
+  "name_ar": "شاليمار",
+  "notes_ar": "باكستاني/هندي. معتمد حلال، المالك مسلم",
+  "jumuah_ar": ""
+ },
+ "ryotei-jyusouya": {
+  "name_ar": "ريوتي جوسويا",
+  "notes_ar": "ياباني؛ معتمد حلال؛ يتوفر مصلّى",
+  "jumuah_ar": ""
+ },
+ "kobe-halal-food": {
+  "name_ar": "كوبي حلال فود",
+  "notes_ar": "بقالة ولحوم حلال، على بعد دقيقتين سيرًا على الأقدام من مسجد كوبي",
+  "jumuah_ar": ""
+ },
+ "kobe-motomachi-tatsuya-halal-kobe-beef": {
+  "name_ar": "كوبي موتوماتشي تاتسويا (لحم بقر كوبي حلال)",
+  "notes_ar": "ملحمة تبيع لحم بقر كوبي معتمد حلال (مجمد ومعبأ بالتفريغ الهوائي)",
+  "jumuah_ar": ""
+ },
+ "japaneid-osaka": {
+  "name_ar": "جابان عيد أوساكا",
+  "notes_ar": "وجبات خفيفة وهدايا تذكارية يابانية حلال؛ مصلّى مع وضوء",
+  "jumuah_ar": ""
+ }
+}
